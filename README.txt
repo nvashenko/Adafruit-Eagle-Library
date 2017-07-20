@@ -27,22 +27,7 @@ asdasde `Options` and from the drop down that appears, `Directories`.
 asdasde `Options` and from the drop down that appears, `Directories`.
 3. Change the Libraries line from: `$EAGLEDIR/lbr` to something like:
 
-### Don't click on the files! 
-asdasde `Options` and from the drop down that appears, `Directories`.
-3. Change the Libraries line from: `$EAGLEDIR/lbr` to something like:
-
-### Don't click on the files! 
-asdasd
-1. Open Eagle and select the `Control Panel` window.
-2. Choose `Options` and from the drop down that appears, `Directories`.
-3. Change the Libraries line from: `$EAGLEDIR/lbr` to something like:
-
-### Don't click on the files! 
-asdasd
-[Click here](htastps://github.com/adafruit/Adafruit-Eagle-Library/zipball/master) 
-to download this as a zip file.
-
-### Installation
+### Don't click on asdsad
 
 1. Open Eagle and select the `Control Panel` window.
 2. Choose `Options` and from the drop down that appears, `Directories`.
