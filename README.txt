@@ -9,7 +9,7 @@ e `Options` and from the drop down that appears, `Directories`.
 asdasde `Options` and from the drop down that appears, `Directories`.
 3. Change the Libraries line from: `$EAGLEDIR/lbr` to something like:
 
-### Don't click on the files! 
+### Don't click oasdasdsadn the files! 
 asdasde `Options` and from the drop down that appears, `Directories`.
 3. Change the Libraries line from: `$EAGLEDIR/lbr` to something like:
 
