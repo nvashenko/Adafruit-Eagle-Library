@@ -1,13 +1,6 @@
 ## Adafruit Eagle Library
 dsadsadsadsadasd
-Now in Eaglsae 6 format!
-glsae 6 format!
-
-### Don't click on the files! 
-asdasd
-[Click here](htastps://github.com/adafruit/Adafruit-Eagle-Library/zipball/master) 
-to download this as a zip file.
-
+sadsadsadsa
 ### Installation
 
 1. Open Eagle and select the `Control Panel` window.
